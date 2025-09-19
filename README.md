@@ -28,18 +28,6 @@ This project demonstrates the entire ML workflow — from data preprocessing to 
 
 ---
 
-## 🗂️ Project Structure
-
-```
-├── app.py                # Streamlit app
-├── models/               # Saved models (optional)
-├── requirements.txt      # Python dependencies
-├── data/                 # Titanic dataset
-└── README.md             # Documentation
-```
-
----
-
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
